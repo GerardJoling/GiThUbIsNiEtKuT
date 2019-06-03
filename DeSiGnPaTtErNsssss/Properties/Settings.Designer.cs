@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DePa_Nieuw.Properties
+namespace DeSiGnPaTtErNsssss.Properties
 {
 
 

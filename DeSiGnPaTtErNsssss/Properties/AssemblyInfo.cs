@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DePa Nieuw")]
+[assembly: AssemblyTitle("DeSiGnPaTtErNsssss")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Hewlett-Packard")]
-[assembly: AssemblyProduct("DePa Nieuw")]
+[assembly: AssemblyProduct("DeSiGnPaTtErNsssss")]
 [assembly: AssemblyCopyright("Copyright © Hewlett-Packard 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("2b554fe6-b9ec-4a41-a978-e5b7837081ad")]
+[assembly: Guid("cdca680d-8bf1-4ba4-8830-1175965f6e73")]
 
 // Version information for an assembly consists of the following four values:
 //
